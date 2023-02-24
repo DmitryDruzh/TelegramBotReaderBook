@@ -1,2 +1,2 @@
 # TelegramBotReaderBook
-Telegram bot for reading books. You can download yor own book in books/ and read it in Telegram
+Telegram bot for reading books. You can download yor own book in book/ and read it in Telegram
